@@ -1,0 +1,1 @@
+insert into customer(id, first_name, last_name, phone_number, email, date_of_birth, social_security_number) values (1, 'William', 'Mercado', '787-439-3936', 'william@email.com', '06091985', '598556666');
